@@ -7,3 +7,6 @@ Two notebook file (.ipynb) are there to generate figure in the paper.
 Table (BrC ratio, Oligomer/Monomer Ratio) result was readed from Gwise_ms.ipynb.
 
 ####Sun 05/21/24
+
+All data file is removed due to paper review process.
+#####Sun 06/14/24
