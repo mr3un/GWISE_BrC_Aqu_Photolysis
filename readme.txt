@@ -1,6 +1,6 @@
 This folder contain all the G-Wise data
  
-R_Assign is all the processed (MFAssignR) output FT-ICR-MS Spectra
+R_Assign is all the processed (MFAssignR) output FT-ICR-MS Spectra [This is currently not there]
 
 Two notebook file (.ipynb) are there to generate figure in the paper. 
 
