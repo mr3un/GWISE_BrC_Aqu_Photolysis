@@ -10,3 +10,6 @@ Table (BrC ratio, Oligomer/Monomer Ratio) result was readed from Gwise_ms.ipynb.
 
 All data file is removed due to paper review process.
 #####Sun 06/14/24
+
+The paper can be checked out at https://pubs.acs.org/doi/10.1021/acsestair.4c00016.
+####Sun 07/15/2024
